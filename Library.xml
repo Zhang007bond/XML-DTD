@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Library SYSTEM "E:\Library.dtd">
+<Library>
+    <Book BookId="88">
+        <Title>金牌讲师大司马</Title>
+        <Author>韩金龙</Author>
+        <Price>666</Price>
+        <Publisher>汉东省皮皮虾出版社</Publisher>
+        <Cost>$666</Cost>
+    </Book>
+
+    <Member>
+        <Name>
+            <FirstName>韩</FirstName>
+            <MiddleName>金</MiddleName>
+            <LastName>龙</LastName>
+        </Name>
+
+        <Address>
+            <HouseNumber>94666</HouseNumber>
+            <Street>中山桥</Street>
+            <City>芜湖</City>
+        </Address>
+    </Member>
+</Library>
